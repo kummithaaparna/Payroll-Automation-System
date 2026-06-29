@@ -1,28 +1,31 @@
-# Payroll Automation System
+# Payroll Management System
 
-## Overview
-This project is a Payroll Automation System developed using Python. It automates employee salary calculations, reducing manual effort and minimizing calculation errors.
+## 📌 Project Overview
+The Payroll Management System is a Python-based application that automates employee salary calculations. It reduces manual work, improves accuracy, and generates salary details efficiently.
 
-## Features
-- Employee salary calculation
-- Basic salary input
-- Allowance calculation
-- Deduction calculation
-- Net salary calculation
-- Easy to use
+## ✨ Features
+- Employee Registration
+- Salary Calculation
+- Gross Salary Calculation
+- Net Salary Calculation
+- Tax and PF Deduction
+- Overtime and Bonus Calculation
+- Payslip Generation
 
-## Technologies Used
+## 🛠 Technologies Used
 - Python
+- Object-Oriented Programming (OOP)
 
-## How to Run
-1. Download or clone this repository.
-2. Open the project in Python.
-3. Run the Python file.
-4. Enter the required employee details.
-5. View the calculated salary.
+## 📋 Salary Formula
+Gross Salary = Basic Salary + HRA + Bonus + Overtime
 
-## Project Objective
-To automate payroll calculations, improve accuracy, and save time compared to manual salary processing.
+Net Salary = Gross Salary - Tax - PF - Other Deductions
 
-## Author
-**Kummitha Venkata Sai Lakshmi Aparna**
+## 🚀 How to Run
+1. Install Python 3.x.
+2. Download or clone this repository.
+3. Open the project folder.
+4. Run the following command:
+
+```bash
+Author Kummitha Venkata Sai Lakshmi Aparna 
